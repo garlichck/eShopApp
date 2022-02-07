@@ -7,7 +7,6 @@ function Home() {
             <div className="home">
                 <div className="home__container">
                     <image className="home__image">
-
                     </image>
                 </div>
             </div>
